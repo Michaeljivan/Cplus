@@ -3,6 +3,7 @@
 using namespace std;
 
 /* Functions */
+
 void eat(){
     cout << "Eating" << endl;
 }
