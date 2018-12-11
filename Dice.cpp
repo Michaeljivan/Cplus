@@ -3,10 +3,10 @@
 using namespace std;
 
 int main() {
-  int roll1;
-  int roll2;
-  int roll3;
-  int die;
+  int roll1 = 0;
+  int roll2 = 0;
+  int roll3 = 0;
+  int die = 0;
 
   for (int i = 0; i <1000000; i++)
   {
